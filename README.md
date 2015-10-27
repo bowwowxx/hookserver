@@ -1,1 +1,1 @@
-# hookserver
+# github、gitlab pull hook
